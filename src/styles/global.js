@@ -20,7 +20,7 @@ export const GlobalStyle = createGlobalStyle`
 	}
 	@font-face {
 		font-family: 'Pokemon';
-		src: url('/fonts/Pokemon-Solid.ttf') format('truetype');
+		src: url('fonts/Pokemon-Solid.ttf') format('truetype');
 		font-weight: normal;
 		font-style: normal;
 	}
